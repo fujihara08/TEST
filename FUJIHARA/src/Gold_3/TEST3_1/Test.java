@@ -4,4 +4,5 @@ interface Test {
 
 
 	public static final String a = "";
+	public static final String b = "";
 }
